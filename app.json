@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "native_view",
-    "slug": "native_view",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "name": "Dinify - Restaurant",
+    "slug": "Dinify_Restaurant",
+    "version": "2.5.0",
+    "orientation": "default",
+    "icon": "./assets/adaptive-icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -23,10 +23,11 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.dinify.business"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/icon.png"
     }
   }
 }
